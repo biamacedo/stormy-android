@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_screen">#FFFC970B</color>
+
+    <color name="half_transparent_white">#80FFFFFF</color>
+    <color name="quarter_transparent_white">#40FFFFFF</color>
+
+    <color name="gradient_start">#FFF9D34C</color>
+    <color name="gradient_end">#FFF25019</color>
+
+    <color name="temperature_color">#F25019</color>
+</resources>
